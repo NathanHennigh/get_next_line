@@ -1,2 +1,2 @@
 # get_next_line
-A C function that will read a file line by line until the end
+An individual project at 42 in which a file has to be read line by line while only using read, free, and malloc
